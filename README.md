@@ -4,6 +4,7 @@ non-bloated gksu setup guide.
 
 ## installation
 
+* install the ssh-askpass-gnome package (debian-based systems) or equal package in other package managers
 * add this to your .bashrc
 
 ```bash
